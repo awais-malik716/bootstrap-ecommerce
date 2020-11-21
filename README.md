@@ -2,4 +2,4 @@
 
 Page Link:
 
-https://awais-malik716.github.io/bootstrap-ecommerce/
+https://beingawaisali.github.io/bootstrap-ecommerce/
